@@ -1,0 +1,15 @@
+This is my cheat sheet
+
+pwd: tells where you are in the filestream
+touch: create file 
+echo: echo input information 
+ls: list of contents of chosen directory
+ls -l: file permissions 
+chmod +x (file name): give permission to execute
+cd: change directory 
+cd ~: change directory to home folder
+cd ..: go back (up) one 
+up arrow: copy command from previous line
+cat: check for text in file
+>: redirect
+|: take the output of one command and use it as input for another
